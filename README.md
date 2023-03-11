@@ -37,6 +37,7 @@
 |TOL|tool|機能以外の機能の改修|新しいVSCodeExtensionを追加|
 |REF|refactoring|リファクタリング|変数名の修正|
 |CHR|ミスタイプ修正など軽微な修正|chore|
+|DOC|ドキュメントのみの修正|document|
 
 ### 運用フロー
 
