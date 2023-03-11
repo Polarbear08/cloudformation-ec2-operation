@@ -11,7 +11,7 @@
 
 ### 構成図
 
-作成中
+![システム構成図](img/system_architecture.png)
 
 ## 開発・運用
 
