@@ -66,7 +66,7 @@ ceo-prd-nfn-ec2-vpc
 
 #### ServiceCode, ResourceCode
 
-※`Service Code`および`Resource Codeは非公式。
+※`Service Code`および`Resource Code`は非公式。
 
 | CloudFormation Resource Code   | Service Code | Resource Code | Description     |
 |--------------------------------|--------------|--------------|-----------------|
